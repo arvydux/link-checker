@@ -6,7 +6,7 @@
 ----------
 
 ## Setup
-- `git clone https://github.com/arvydux/link-checker.git
+- `git clone https://github.com/arvydux/link-checker.git`
 - `cd link-checker`
 - `docker-compose up -d`
 - `docker exec app composer install`
