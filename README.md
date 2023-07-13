@@ -22,4 +22,4 @@ Now that all containers are up, access `localhost.links` on your favorite browse
 
 ## Questions and Improvements
 
-For any question or emprovement please send an e-mail to Arvydas Kavalia [shady@veloxsolutions.ca](mailto:arvydas.kavaliauskas83@gmail.com).
+For any question or emprovement please send an e-mail to Arvydas Kavaliauskas [arvydas.kavaliauskas83@gmail.com](mailto:arvydas.kavaliauskas83@gmail.com).
