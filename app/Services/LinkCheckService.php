@@ -28,12 +28,12 @@ class LinkCheckService
 
             return null;
         }
+        
         $headersRedirect = $response->getHeader(\GuzzleHttp\RedirectMiddleware::HISTORY_HEADER);
         $statusHeadersRedirect = $response->getHeader(\GuzzleHttp\RedirectMiddleware::STATUS_HISTORY_HEADER);
         $redirects = array_combine($headersRedirect, $statusHeadersRedirect);
 
         return $redirects;
-
     }
 
     protected function getRedirectAmount(array $redirects): int
